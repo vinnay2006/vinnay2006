@@ -1,24 +1,14 @@
-## Hi there 👋
-Myself Vinay kumar 
-BTECH CSE || SOPHOMORE ||NIT HAMIRPUR
-
-🔭 I’m currently working on building scalable web applications and refining my backend architecture.
-
-🌱 I’m currently learning Advanced Data Structures and Algorithms (DSA) and strengthening my knowledge of Core CSE subjects.
-
-👯 I’m looking to collaborate on MERN stack projects and exploring the world of DevOps.
-
-🤔 I’m looking for help with mastering CI/CD pipelines and cloud infrastructure basics.
-
-⚡ Fun fact: I bridge the gap between logical backend structures and creative frontend experiences.
-
-🛠️ Technical Stack 
-Frontend     => React.js, HTML5, CSS3,                 JavaScript, python, sql
-Backend	      =>Node.js, Express.js
-
-Database	    => MongoDB
-Testing/Tools	=>Postman, Git, GitHub, 
-                Thunderclient
+Hi there 👋 I'm Vinay Kumar — Sophomore CSE @ NIT Hamirpur
+🔭 Currently building production-grade full-stack and AI systems — from MERN marketplaces to LangGraph-powered code review pipelines
+🌱 Deepening my DSA foundations and Core CSE subjects — actively solving on LeetCode with focus on Trees, Graphs, and Dynamic Programming
+👯 Open to collaborate on MERN stack projects, AI/LLM integrations, and open source contributions
+⚡ I don't just build features — I optimize for scale. 40% latency reduction, 93.8% ROC-AUC, 80% fraud recall — numbers matter.
+🛠️ Tech Stack
+Frontend — React.js, HTML5, CSS3, JavaScript
+Backend — Node.js, Express.js, Flask, Python
+Database — MongoDB, ChromaDB, Vector Databases
+AI/LLM — LangChain, LangGraph, RAG, Gemini API, GitHub API
+Tools — Git, GitHub, Docker, Postman, Vercel, JWT, Socket.io
                 
 🌐 Connect with Me:
 LinkedIn: vinay-kumar-b25024333
