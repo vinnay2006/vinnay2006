@@ -1,4 +1,5 @@
-Hi there 👋 I'm Vinay Kumar — Sophomore CSE @ NIT Hamirpur
+Hi there 👋 
+I'm Vinay Kumar — Sophomore CSE @ NIT Hamirpur
 🔭 Currently building production-grade full-stack and AI systems — from MERN marketplaces to LangGraph-powered code review pipelines
 🌱 Deepening my DSA foundations and Core CSE subjects — actively solving on LeetCode with focus on Trees, Graphs, and Dynamic Programming
 👯 Open to collaborate on MERN stack projects, AI/LLM integrations, and open source contributions
